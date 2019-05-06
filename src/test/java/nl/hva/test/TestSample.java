@@ -11,5 +11,10 @@ public class TestSample {
     public void testSample() {
         assertEquals(Math.PI,3.1415,0.0001);
     }
+    
+    @Test
+    public void test2Sample() {
+        assertEquals(Math.PI,3.1415,0.0001);
+    }
 
 }
